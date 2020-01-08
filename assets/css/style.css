@@ -1,0 +1,13 @@
+body {
+    background-image: url("../images/weather.jpg");
+}
+
+.container {
+    width: 50%;
+}
+
+.header {
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
